@@ -1,0 +1,7 @@
+numpy
+scipy
+scikit-learn
+lightgbm==4.6.0
+pandas
+joblib
+threadpoolctl

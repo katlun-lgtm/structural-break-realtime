@@ -1,0 +1,6 @@
+# Competition data must never be committed (the dataset is not ours to redistribute).
+data/
+*.parquet
+*.npy
+*.npz
+__pycache__/
